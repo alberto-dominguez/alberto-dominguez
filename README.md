@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alberto Dominguez
-- 👀 I am a physics, calculus and computer science instructor, interested in financial economics, using both traditional numerical and reinforcement learning techniques.
-- 🌱 I’m currently expanding my understanding of Matlab's and python's ML capabilities. 
+- 👀 I am a physics, calculus and computer science teacher. My main interest is in financial economics, previously using traditional numerical techniques, but recently I have become interested in the application of reinforcement learning (RL) techniques to the subject.
+- 🌱 I’m currently expanding my understanding of Matlab's and python's RL capabilities. 
 - 💞️ I’m looking to collaborate on RL as it relates to portfolio performance analysis and prediction.
 - 📫 Reach me alberto.dominguez@browardschools.com
